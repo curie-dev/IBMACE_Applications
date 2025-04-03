@@ -1,0 +1,36 @@
+{
+	"student": {
+		"s": [
+			{
+				"name": "Divyank Singh Sikarwar",
+				"branch": "CSE",
+				"age": "18",
+				"city": "Agra"
+			},
+			{
+				"name": "Aniket Chauhan",
+				"branch": "CSE",
+				"age": "20",
+				"city": "Shahjahanpur"
+			},
+			{
+				"name": "Simran Agarwal",
+				"branch": "CSE",
+				"age": "23",
+				"city": "Buland Shar"
+			},
+			{
+				"name": "Abhay Chauhan",
+				"branch": "CSE",
+				"age": "17",
+				"city": "Shahjahanpur"
+			},
+			{
+				"name": "Himanshu Bhatia",
+				"branch": "IT",
+				"age": "25",
+				"city": "Indore"
+			}
+		]
+	}
+}
